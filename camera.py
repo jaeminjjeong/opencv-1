@@ -1,7 +1,8 @@
 # 카메라 출력 - 로컬에서 실행하여야 합니다
 # 반드시 .py 파일로 '로컬'에 저장 후 실행하세요. 
 # ipynb 지원불가
-  
+## 임의의 문자을 넣어서 코드 수정
+import pandas
 import cv2
 
 capture = cv2.VideoCapture(0)
